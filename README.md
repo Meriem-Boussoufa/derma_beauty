@@ -4,6 +4,9 @@
 
 ![Screenshot from 2024-02-10 12-21-24](https://github.com/Meriem-Boussoufa/derma_beauty_front_end/assets/93092761/a93aa481-9cb0-4df3-b976-ffc019d196cb)
 
-![Screenshot from 2024-02-10 12-22-40](https://github.com/Meriem-Boussoufa/derma_beauty_front_end/assets/93092761/5c9d23b0-5f58-4865-92b5-9b4646465193)
-![Screenshot from 2024-02-10 12-21-24](https://github.com/Meriem-Boussoufa/derma_beauty_front_end/assets/93092761/30700cc6-7a0a-4871-95dc-ad61f2f23869)
-![Screenshot from 2024-02-10 12-22-40](https://github.com/Meriem-Boussoufa/derma_beauty_front_end/assets/93092761/19243cb0-4948-4dba-8d7c-1762e568a0e7)
+
+![Screenshot from 2024-02-10 12-21-59](https://github.com/Meriem-Boussoufa/derma_beauty_front_end/assets/93092761/dd5b89ab-6d1d-41cc-b1a3-1ec3d3c62847)
+
+
+![Screenshot from 2024-02-10 12-22-20](https://github.com/Meriem-Boussoufa/derma_beauty_front_end/assets/93092761/70a6cf69-4f53-4e38-9c59-b2ecc361ca83)
+![Screenshot from 2024-02-10 12-22-40](https://github.com/Meriem-Boussoufa/derma_beauty_front_end/assets/93092761/d94babd2-9cc7-4c58-8f30-14bd4d1f645e)
